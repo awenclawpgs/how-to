@@ -1,2 +1,2 @@
 # how-to
-Useful commands
+This repo is a knowledge base of the useful commands for frontend developers.
